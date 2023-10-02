@@ -17,3 +17,14 @@ Welcome to Tech-Know-Camp, an exciting event where you can dive deep into the di
 7. **Competitive Coding:** Sharpen your coding skills and compete with fellow enthusiasts in exhilarating coding challenges. Test your problem-solving prowess and elevate your coding game.
 
 Join us on this exhilarating journey filled with live sessions, interactive workshops, and mind-bending quizzes. Tech-Know-Camp is your ticket to expanding your knowledge and skills in the world of software technology. Don't miss out on this marvelous adventure!
+
+
+# Open-Source
+
+One of the next ways to learn any technology and get some hands-on experience is to contribute to open-source projects. Open source projects are projects that are publicly available for anyone to view and suggest changes. You can go to GitHub Explore and start contributing on open-source projects by filtering out the projects that fall under the domain of your interest.
+
+In fact, now that we mentioned open-source we would also like to inform you about Hacktoberfest 2023, which is going on right now. This program runs in October every year where you can contribute to open source projects and win swags or get a tree planted in your name!
+
+Also, we are pleased to announce that Android Club is also participating in Hacktoberfest this year. You can contribute to our repository as well and finish the challenge!
+
+Android Club’s Repository: https://github.com/Android-Club-VITC/AC-Website-NextJs
